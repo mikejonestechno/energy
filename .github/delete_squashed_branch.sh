@@ -1,5 +1,5 @@
 #https://stackoverflow.com/questions/41946475/git-why-cant-i-delete-my-branch-after-a-squash-merge
-git checkout main
+git switch main
 git fetch
 git pull
 
