@@ -1,0 +1,98 @@
+[
+    {
+        "code": "aggregator_vpp",
+        "color": "#3379bf"
+    },
+    {
+        "code": "aggregator_dr",
+        "color": "#3379bf"
+    },
+    {
+        "code": "imports",
+        "color": "#44146f"
+    },
+    {
+        "code": "exports",
+        "color": "#977ab1"
+    },
+    {
+        "code": "interconnector",
+        "color": "#3379bf"
+    },
+    {
+        "code": "battery_charging",
+        "color": "#b056bc"
+    },
+    {
+        "code": "battery_discharging",
+        "color": "#b056bc"
+    },
+    {
+        "code": "bioenergy_biomass",
+        "color": "#a82140"
+    },
+    {
+        "code": "coal_black",
+        "color": "#333536"
+    },
+    {
+        "code": "coal_brown",
+        "color": "#97785c"
+    },
+    {
+        "code": "distillate",
+        "color": "#fe5f55"
+    },
+    {
+        "code": "gas_ccgt",
+        "color": "#34b9b3"
+    },
+    {
+        "code": "gas_ocgt",
+        "color": "#34b9b3"
+    },
+    {
+        "code": "gas_recip",
+        "color": "#34b9b3"
+    },
+    {
+        "code": "gas_steam",
+        "color": "#34b9b3"
+    },
+    {
+        "code": "gas_wcmg",
+        "color": "#34b9b3"
+    },
+    {
+        "code": "hydro",
+        "color": "#ade0ee"
+    },
+    {
+        "code": "pumps",
+        "color": "#ade0ee"
+    },
+    {
+        "code": "solar_utility",
+        "color": "#ffd565"
+    },
+    {
+        "code": "solar_thermal",
+        "color": "#ff0000"
+    },
+    {
+        "code": "solar_rooftop",
+        "color": "#ffe03d"
+    },
+    {
+        "code": "wind",
+        "color": "#a1d978"
+    },
+    {
+        "code": "nuclear",
+        "color": "#000000"
+    },
+    {
+        "code": "bioenergy_biogas",
+        "color": "#a82140"
+    }
+]
