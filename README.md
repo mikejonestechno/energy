@@ -8,8 +8,6 @@ A data analytics project for the Australian energy market.
 
 🚧 Experimentation in progress
 
-```
-pip install --upgrade pip
-pip install -r https://raw.githubusercontent.com/opennem/opennempy/master/requirements.txt
-pip install opennem
-```
+## Electricity: Victoria
+
+[![](vic.png)](notebooks/opennem.ipynb)
