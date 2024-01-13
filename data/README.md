@@ -54,3 +54,4 @@ https://data.opennem.org.au/v3/stats/au/NEM/VIC1/power/7d.json
 curl -o VIC1.json https://data.opennem.org.au/v3/stats/au/NEM/VIC1/power/7d.json
 ```
 
+Note fuel mix 'pumps' are for hydro pumped storage refilling the upper reservoir.
