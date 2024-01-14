@@ -94,5 +94,10 @@
     {
         "code": "bioenergy_biogas",
         "color": "#a82140"
+    },
+    {
+        "code": "other",
+        "color": "#aaaaaa",
+        "label": "Other"
     }
 ]
